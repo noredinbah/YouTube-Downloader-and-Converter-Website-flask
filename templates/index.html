@@ -11,6 +11,7 @@
         <h1>Welcome to Video Converter</h1>
         <form action="/process" method="post" enctype="multipart/form-data">
             <p>Please choose:</p>
+            <div class="choice">
             <label>
                 <input type="radio" name="choice" value="1"> Download YouTube Video
             </label><br>
@@ -19,7 +20,10 @@
             </label><br>
             <label>
                 <input type="radio" name="choice" value="3"> Convert a local video to MP3
-            </label><br><br>
+            </label>
+            </div>
+            
+            <br><br>
             
             <div id="form1" style="display: none;">
                 <label>Enter YouTube Link: <input type="text" name="link"></label><br>
