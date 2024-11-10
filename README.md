@@ -114,11 +114,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to modify or extend this application for your own use!
-```
 
-### Instructions:
-1. **Clone this repository** to your machine or fork it if you're planning to contribute.
-2. Create the `requirements.txt` file containing the dependencies, such as Flask, yt-dlp, moviepy.
-3. Push everything to GitHub and share the repository.
 
-This README will help users to easily understand what your project does, how to install it, and how to use it.
